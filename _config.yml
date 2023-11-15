@@ -1,30 +1,27 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Asmaa Hadir | Computer Scientist & AI Engineer
+description: Portfolio and Blog website for Asmaa
+taglong: Find Asmaa's thoughts and work here
+tagshort: Asmaa's site
+url: https://asmaamhadir.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/asmaamhadir/asmaamhadir.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Asmaa Hadir
+  email: asmaamhadir99@gmail.com
+photo: /assets/jpg/photo.png
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  github: AsmaaMHadir
+  linkedin: Asmaa Hadir
+  twitter: AsmaaHadir51
 
 # build settings
 
