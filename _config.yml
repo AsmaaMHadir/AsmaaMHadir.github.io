@@ -2,8 +2,8 @@
 
 title: Asmaa Hadir | AI Engineer
 description: Portfolio and Blog website for Asmaa
-taglong: Find Asmaa's thoughts and work here
-tagshort: Asmaa's site
+taglong: blog posts & projects
+tagshort: Tech Blog 
 url: https://asmaamhadir.github.io
 baseurl: ""
 permalink: pretty
@@ -13,13 +13,14 @@ repo: https://github.com/asmaamhadir/asmaamhadir.github.io
 
 author:
   name: Asmaa Hadir
-  email: asmaamhadir99@gmail.com
+  email: asmaahadir11@gmail.com
 photo: /assets/photo.png
 
 # social media links
 
 social:
   github: AsmaaMHadir
+  Kaggle: Asmaa Hadir
   linkedin: Asmaa Hadir
   twitter: AsmaaHadir51
 

@@ -28,13 +28,18 @@ Business Development Lead @ WESPEQ
 ### Education & Courses
 ---------
 
-2018-2022 
-   **BSc, Computer Science**; American University of Beirut  (Beirut, Lebanon)
+_2018-2022_
+**BSc, Computer Science**, American University of Beirut  (Beirut, Lebanon) 
+    *Relevant Coursework: 
+        - Software Engineering 
+        - Data Science 
+        - Networks & Security
+        - Web Development
+        - Computer Architecture
+        - Software Design
 
-    *Relevant Coursework: Software Engineering, Data Science, Networks & Security, Web Development, Computer Architecture, Software Design*
-
-2019
-   **Leadership Expedition**; National Outdoors Leadership School  (Wyoming, United States)
+_June 2019_
+**Leadership Expedition**; National Outdoors Leadership School  (Wyoming, United States)
 
 
 ### Technical Projects
@@ -53,7 +58,7 @@ Business Development Lead @ WESPEQ
 ---------
 
 - Help Syria's Kids - Volunteer Coordinator 
-- SMEX Bread & Net - Workshops Assistant
+- SMEX Bread & Net conference - Workshops Assistant
 - Sanad Cooperative - Sales Technology Trainer
 
 ### Scholarships & Fellowships
