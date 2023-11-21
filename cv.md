@@ -1,21 +1,61 @@
 ---
 layout: cv
-title: CV
+title: Resume
 ---
 
-# Curriculum Vitæ
+# Professional &  Experience 
 
 {% include contact.html %}
 
-## Section
+Computer Scientist passionate about building AI driven products, professionally experienced in Data Science and Machine Learning Engineering.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+### Professional Experiences
+---------
 
-### Subsection
+Open Source Core Contributor @ Unify
+                                                                                                  
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Machine Learning Research Intern @ Mentalyc       
+                                                                                                                                                                    
+
+Business Process Consultant Intern @ Global Gate Capital	
+                                                                                                                                                                    
+
+Data Scientist Intern @ Lemonade Fashion	
+
+### Technical Projects
+---------
+
+- DocGnerator 
+- KeyWise
+- Predict My Math Grade 
+- CRM System
+- Intelligent To-do List
+
+
+### Education
+---------
+
+2018-2022 
+:   **BSc, Computer Science**; American University of Beirut  (MyTown)
+
+    *Relevant Coursework: Software Engineering, Data Science, Networks & Security, Web Development, Computer Architecture, Software Design*
+
+
+
+### Ideation Hackathons
+---------
+
+### Voluntary Work
+---------
+
+
+### Scholarships & Fellowships
+---------
+
+Add pics or links or logo
+- Fellow | Clinton Global Initiative University (CGI U) (_2021_)
+- Fortis Fellow | Future Global Leaders Foundation (_2019_)
+- Tomorrow's Leaders Undergraduate Full Scholarship | the US Department of State & the Middle East Initiative Partnership (_2018_).
+- AL Ghurair STEM Scholars Program | Alghurair Foundation UAE (_2018_)
