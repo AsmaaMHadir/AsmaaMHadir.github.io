@@ -1,9 +1,7 @@
 ---
 layout: cv
 title: Resume
----
-
-# Professional &  Experience 
+--- 
 
 {% include contact.html %}
 
@@ -13,7 +11,7 @@ Computer Scientist passionate about building AI driven products, professionally 
 ### Professional Experiences
 ---------
 
-Open Source Core Contributor @ Unify
+Open Source Core Contributor @ Unify 
                                                                                                   
 
 Machine Learning Research Intern @ Mentalyc       
@@ -22,17 +20,10 @@ Machine Learning Research Intern @ Mentalyc
 Business Process Consultant Intern @ Global Gate Capital	
                                                                                                                                                                     
 
-Data Scientist Intern @ Lemonade Fashion	
+Data Scientist Intern @ Lemonade Fashion
 
-### Technical Projects
----------
 
-- DocGnerator 
-- KeyWise
-- Predict My Math Grade 
-- CRM System
-- Intelligent To-do List
-
+Business Development Lead @ WESPEQ
 
 ### Education & Courses
 ---------
@@ -46,8 +37,17 @@ Data Scientist Intern @ Lemonade Fashion
    **Leadership Expedition**; National Outdoors Leadership School  (Wyoming, United States)
 
 
-### Ideation Hackathons
+### Technical Projects
 ---------
+
+- DocGnerator: automatic comprhenesive documentation generation for any Python GitHub repository code. Built with NodeJS, MongoDB, LLM models.
+- KeyWise: Atalssian app that builds a keywords directory for Confluence projects. Built with Forge, Fast API.
+- Predict My Math Grade: machine learning model for Math exam score inference, trained on a dataset of student features. Built with Flask.
+- CRM System: web application for efficient customer relationship management. Built with Django.
+- Intelligent To-do List: AI web app to easily categorize and prioritize your tasks. Built with Flask.
+
+
+
 
 ### Voluntary Work
 ---------
@@ -55,56 +55,16 @@ Data Scientist Intern @ Lemonade Fashion
 - Help Syria's Kids - Volunteer Coordinator 
 - SMEX Bread & Net - Workshops Assistant
 - Sanad Cooperative - Sales Technology Trainer
-- 
 
 ### Scholarships & Fellowships
 ---------
 
-Add pics or links or logo
-- Entrepreneurship Fellow | Clinton Global Initiative University (CGI U) (_2021_)
-- 
-- Fortis Fellow | Future Global Leaders Foundation (_2019_)
-- Tomorrow's Leaders Undergraduate Full Scholarship Holder | the US Department of State & the Middle East Initiative Partnership (_2018_).
-- AL Ghurair STEM Scholars Full Scholarship Recipient | Alghurair Foundation UAE (_2018_)
+
+- Awardee of a Full Scholarship by Harvard's MD4SG to attend ACM's Economics and Computation conference. (_2021_)
+- Awardee of a Full Scholarship by Capital One to attend Grace Hopper Celebration, the largest conference for women in technology in the world. (_2021_)
+- Selected to be a social entrepreneurship fellow @ the Clinton Global Initiative University (CGI U) (_2021_)
+- Selected among 17 students globally (pre-selected from 650 students) by the Future Global Leaders Foundation to be inducted to the Fortis Fellowship (_2019_)
+- Tomorrow's Leaders Undergraduate Full Scholarship Holder by the US Department of State & the Middle East Initiative Partnership (_2018_).
+- AL Ghurair STEM Scholars Full Scholarship Recipient by Abdulla Alghurair Foundation (_2018_)
 
 
-<style>
-    .image-container {
-        display: flex;
-        align-items: top;
-    }
-    .image-container img {
-        max-width: 200px; /* Adjust the max-width as needed */
-        margin-right: 20px; /* Adjust the margin between images */
-    }
-    .text-container {
-        flex: 1;
-    }
-</style>
-
-<div class="image-container">
-    <div>
-        ![Image 1](image1.jpg)
-    </div>
-    <div class="text-container">
-        Text related to Image 1 goes here. You can add paragraphs, lists, or any content.
-    </div>
-</div>
-
-<div class="image-container">
-    <div>
-        ![Image 2](image2.jpg)
-    </div>
-    <div class="text-container">
-        Text related to Image 2 goes here. You can add paragraphs, lists, or any content.
-    </div>
-</div>
-
-<div class="image-container">
-    <div>
-        ![Image 3](image3.jpg)
-    </div>
-    <div class="text-container">
-        Text related to Image 3 goes here. You can add paragraphs, lists, or any content.
-    </div>
-</div>
